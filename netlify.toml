@@ -1,0 +1,5 @@
+[[redirects]]
+  from = "/*"
+  to = "https://atharvashah.com/:splat"
+  status = 301
+  force = true
